@@ -1,6 +1,6 @@
 ## About me
 
-### Hello, I'm Unison. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+### Hello, I'm Unison. Data Analyst with expertise in data analysis and reporting. 
 
 #### Querying data using SQL, R, and Python.
 #### Generate reports and perform ad-hoc data analysis using SQL.
