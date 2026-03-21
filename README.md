@@ -1,21 +1,21 @@
 ## About me
 
-## Hello, I'm Unison. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
+# Hello, I'm Unison. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling.
 
-Querying data using SQL, R, and Python.
-Generate reports and perform ad-hoc data analysis using SQL.
-Developing dashboards on Tableau and MongoDB
-Data analysis and reporting using Google Sheets and Excel.
+# Querying data using SQL, R, and Python.
+# Generate reports and perform ad-hoc data analysis using SQL.
+# Developing dashboards on Tableau and MongoDB
+# Data analysis and reporting using Google Sheets and Excel.
 
-Projects
+## Projects
 
-Welcome to my portfolio, where I showcase my projects.
+# Welcome to my portfolio, where I showcase my projects.
 
-Tools
+## Tools
 
-Language: SQL, Python, Rstudio
-Database: MySQL
-Visualization: Tableau
+# Language: SQL, Python, Rstudio
+# Database: MySQL
+# Visualization: Tableau
 
 <!--
 **parkunisonx-prog/parkunisonx-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
