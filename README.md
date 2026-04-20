@@ -1,9 +1,9 @@
 ## About me
  Hello, I'm Unison. Data Analyst with expertise in data analysis and reporting. 
 
-#### Querying data using R and Python.
-#### Developing dashboards on Tableau and MongoDB
-#### Data analysis and reporting using Google Sheets and Excel.
+ Querying data using R and Python.
+ Developing dashboards on Tableau and MongoDB
+ Data analysis and reporting using Google Sheets and Excel.
 
 ### Projects
 
