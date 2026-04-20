@@ -6,12 +6,12 @@
 
 ### Projects
 
-#### Welcome to my portfolio, where I showcase my [projects.](https://github.com/parkunisonx-prog/Portfolio-Guide.git)
+Welcome to my portfolio, where I showcase my [projects.](https://github.com/parkunisonx-prog/Portfolio-Guide.git)
 
 ### Tools
 
-#### Language:  Python, Rstudio
-#### Visualization: Tableau
+- Language:  Python, Rstudio
+- Visualization: Tableau
 
 <!--
 **parkunisonx-prog/parkunisonx-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
