@@ -8,7 +8,7 @@
 
 ### Projects
 
-#### Welcome to my portfolio, where I showcase my projects.
+#### Welcome to my portfolio, where I showcase my [projects.](https://github.com/parkunisonx-prog/Portfolio-Guide.git)
 
 ### Tools
 
