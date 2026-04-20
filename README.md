@@ -2,8 +2,7 @@
 
 ### Hello, I'm Unison. Data Analyst with expertise in data analysis and reporting. 
 
-#### Querying data using SQL, R, and Python.
-#### Generate reports and perform ad-hoc data analysis using SQL.
+#### Querying data using R and Python.
 #### Developing dashboards on Tableau and MongoDB
 #### Data analysis and reporting using Google Sheets and Excel.
 
@@ -13,8 +12,7 @@
 
 ### Tools
 
-#### Language: SQL, Python, Rstudio
-#### Database: MySQL
+#### Language:  Python, Rstudio
 #### Visualization: Tableau
 
 <!--
